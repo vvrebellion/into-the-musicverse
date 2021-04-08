@@ -1,4 +1,4 @@
-# into-the-musicverse
+# Into The Musicverse
 
 ![image](https://user-images.githubusercontent.com/70511563/113974280-9d732a80-9878-11eb-91ce-38304caaa1d7.png)
 
